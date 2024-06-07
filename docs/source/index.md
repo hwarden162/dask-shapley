@@ -1,4 +1,4 @@
-# **my-package**
+# **dask-shapley**
 
 ```{toctree}
 :maxdepth: 2
@@ -15,8 +15,8 @@ overview
 
 CHANGELOG
 CONTRIBUTING
-License <https://raw.githubusercontent.com/allenai/python-package-template/main/LICENSE>
-GitHub Repository <https://github.com/allenai/python-package-template>
+License <https://raw.githubusercontent.com/allenai/dask-shapley/main/LICENSE>
+GitHub Repository <https://github.com/hwarden162/dask-shapley>
 ```
 
 ## Indices and tables
